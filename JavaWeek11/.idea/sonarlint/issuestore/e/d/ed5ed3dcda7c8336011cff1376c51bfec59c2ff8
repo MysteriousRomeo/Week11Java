@@ -1,0 +1,7 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÃºÛúÿÿÿÿ8Á„ãÏ¿1
+L	java:S106"+Replace this use of System.out by a logger.(…‹Ì¬øÿÿÿÿ8Ç„ãÏ¿1
+]	java:S125"<This block of commented-out lines of code should be removed.(íŞùÿÿÿÿ8È„ãÏ¿1
+]	java:S125"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿ8È„ãÏ¿1
+`
+java:S1128"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È8È„ãÏ¿1

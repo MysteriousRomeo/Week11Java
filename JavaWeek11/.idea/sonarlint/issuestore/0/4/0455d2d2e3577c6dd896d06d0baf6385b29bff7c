@@ -1,0 +1,14 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ¥–Ïüÿÿÿÿ8ØûñÂ¿1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô¢¦Şıÿÿÿÿ8ÙûñÂ¿1
+L	java:S106"+Replace this use of System.out by a logger.(®¤Û ÿÿÿÿÿ8ßûñÂ¿1
+L	java:S106"+Replace this use of System.out by a logger.(ãášòúÿÿÿÿ8ßûñÂ¿1
+G	java:S106"+Replace this use of System.out by a logger.(¿Ÿıò8àûñÂ¿1
+E
+java:S2114"(Remove or correct this "removeAll" call.(ªğíœ8àûñÂ¿1
+L	java:S106"+Replace this use of System.out by a logger.(ãášòúÿÿÿÿ8¡±òÂ¿1
+]
+java:S1128";Remove this unused import 'com.google.common.base.Strings'.(¬êÅ¡øÿÿÿÿ8àûñÂ¿1
+h
+java:S1128"FRemove this unused import 'org.checkerframework.checker.units.qual.A'.(¿‚áñøÿÿÿÿ8àûñÂ¿1
